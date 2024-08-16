@@ -4,28 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65dc56d-2a9e-4eca-83c3-b610d8f20c76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/stockMarektdata.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/financeApp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/financeApp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/financeApp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/financeApp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/financeApp/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/financeApp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/financeApp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/financeApp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stockMarektdata/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stockMarektdata/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stockMarektdata/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stockMarektdata/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stockMarektdata/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/financeApp/home.html" afterDir="false" />
+    <list default="true" id="c65dc56d-2a9e-4eca-83c3-b610d8f20c76" name="Changes" comment="update for apple data">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financeApp/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/financeApp/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financeApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/financeApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stockMarektdata/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/stockMarektdata/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,11 +100,35 @@
       <workItem from="1723020822431" duration="444000" />
       <workItem from="1723021273662" duration="1981000" />
       <workItem from="1723050706183" duration="63000" />
-      <workItem from="1723358718586" duration="2930000" />
+      <workItem from="1723358718586" duration="3175000" />
+      <workItem from="1723363013664" duration="102000" />
+      <workItem from="1723468465755" duration="87000" />
+      <workItem from="1723832504348" duration="1602000" />
     </task>
+    <task id="LOCAL-00001" summary="update for apple data">
+      <option name="closed" value="true" />
+      <created>1723362953484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723362953484</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update for apple data">
+      <option name="closed" value="true" />
+      <created>1723362999442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723362999442</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update for apple data" />
+    <option name="LAST_COMMIT_MESSAGE" value="update for apple data" />
   </component>
 </project>
