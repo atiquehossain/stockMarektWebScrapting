@@ -5,7 +5,7 @@ import json
 def fetch_and_store_data(ticker):
     try:
         stock = yf.Ticker(ticker)
-        hist = stock.history(period="5y")
+        hist = stock.history(period="10y")
         hist.index = hist.index.tz_localize(None)
 
         hist.index = hist.index.strftime('%Y-%m-%d')
